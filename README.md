@@ -1,4 +1,5 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rijieli&hide=stars&show_icons=true&hide_title=true&count_private=true)
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=rijieli&hide=stars&show_icons=true&hide_title=true&count_private=true&&hide_border=true" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rijieli&layout=compact&theme=buefy&hide_border=true" /> |
+| ------------- | ------------- |
 
 <!--
 **rijieli/rijieli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
