@@ -1,4 +1,4 @@
-🤳 I've built 2 iOS apps: [[Music Plus](https://apps.apple.com/app/musicplus/id1626398921?mt=8&ct=gh)] [[Clip Jar](https://apps.apple.com/app/id1628120600?mt=8&ct=gh)]
+🤳 Build iOS apps that serve over 1 million users.
 
 💬 Ask me anything [here](https://github.com/rijieli/rijieli/issues)
 
